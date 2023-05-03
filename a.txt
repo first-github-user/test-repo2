@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 b
-=======
 c
->>>>>>> f5eaa88 (foo commit)
